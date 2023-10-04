@@ -1,3 +1,3 @@
-module github.com/tali-lang/tali-lang.org
+module github.com/talilang/talilang.org
 
 go 1.21.1
