@@ -1,0 +1,12 @@
+{
+  "name": "talis-lang.org",
+  "description": "",
+  "keywords": [
+    "getting-started",
+    "go",
+    "sample",
+    "example"
+  ],
+  "website": "http://www.talis-lang.org",
+  "repository": "http://github.com/talis-lang/talis-lang.org"
+}
