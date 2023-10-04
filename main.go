@@ -5,6 +5,7 @@ import (
 	"html/template"
 	"log"
 	"net/http"
+  "os"
 )
 
 func main() {
@@ -17,6 +18,6 @@ func main() {
   fmt.Println("Listening on :8000...")
 
   log.Fatal(
-    http.ListenAndServe(":8000", nil),
+    http.ListenAndServe(os.Getenv("PORT"), nil),
   )
 }
