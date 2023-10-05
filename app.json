@@ -1,5 +1,5 @@
 {
-  "name": "talis-lang.org",
+  "name": "cro-lang.org",
   "description": "",
   "keywords": [
     "getting-started",
@@ -7,6 +7,6 @@
     "sample",
     "example"
   ],
-  "website": "http://www.talis-lang.org",
-  "repository": "http://github.com/talis-lang/talis-lang.org"
+  "website": "http://www.cro-lang.org",
+  "repository": "http://github.com/cro-lang/cro-lang.org"
 }

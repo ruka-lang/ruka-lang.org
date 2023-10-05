@@ -1,1 +1,1 @@
-web: talis-lang.org
+web: cro-lang.org

@@ -5,4 +5,4 @@ build:
     - go
 
 run:
-  web: talis-lang.org
+  web: cro-lang.org

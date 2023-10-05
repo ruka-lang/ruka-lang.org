@@ -1,4 +1,4 @@
-module github.com/talis-lang/talis-lang.org
+module github.com/cro-lang/cro-lang.org
 
 // +heroku goVersion go1.20
 go 1.21
