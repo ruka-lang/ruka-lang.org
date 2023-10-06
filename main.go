@@ -1,7 +1,7 @@
 package main
 
 import (
-	"log"
+	//"log"
 	"net/http"
 	"os"
 
@@ -13,7 +13,8 @@ func main() {
 	port := os.Getenv("PORT")
 
 	if port == "" {
-		log.Fatal("$PORT must be set")
+    port = "8080"
+		//log.Fatal("$PORT must be set")
 	}
 
 	router := gin.New()

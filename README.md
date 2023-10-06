@@ -1,4 +1,4 @@
-# `cro-lang.org`
+# `ruka-lang.org`
 
 # License
-`Cro` is distributed under the terms of both the MIT license and the Apache License (Version 2.0).
+`Ruka` is distributed under the terms of both the MIT license and the Apache License (Version 2.0).

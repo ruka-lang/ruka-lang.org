@@ -1,1 +1,1 @@
-web: cro-lang.org
+web: ruka-lang.org
