@@ -18,19 +18,23 @@ func main() {
 
 	router := gin.New()
 	router.Use(gin.Logger())
-	router.LoadHTMLGlob("templates/*.tmpl.html")
+	router.LoadHTMLGlob("templates/**/*.tmpl.html")
 	router.Static("/static", "static")
 
 	router.GET("/", func(c *gin.Context) {
-		c.HTML(http.StatusOK, "index.tmpl.html", nil)
+		c.HTML(http.StatusOK, "ruka.index.tmpl.html", nil)
+	})
+  
+  router.GET("/charm", func(c *gin.Context) {
+		c.HTML(http.StatusOK, "charm.index.tmpl.html", nil)
 	})
 	
-  router.GET("/ag", func(c *gin.Context) {
-		c.HTML(http.StatusOK, "ruka-ag.index.tmpl.html", nil)
+  router.GET("/silver", func(c *gin.Context) {
+		c.HTML(http.StatusOK, "silver.index.tmpl.html", nil)
 	})
   
   router.GET("/about", func(c *gin.Context) {
-		c.HTML(http.StatusOK, "index.tmpl.html", nil)
+		c.HTML(http.StatusOK, "ruka.index.tmpl.html", nil)
 	})
 
 	router.Run(":" + port)
