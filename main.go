@@ -1,7 +1,7 @@
 package main
 
 import (
-	//"log"
+	"log"
 	"net/http"
 	"os"
 
@@ -13,8 +13,7 @@ func main() {
 	port := os.Getenv("PORT")
 
 	if port == "" {
-    port = "8080"
-		//log.Fatal("$PORT must be set")
+		log.Fatal("$PORT must be set")
 	}
 
 	router := gin.New()
@@ -23,6 +22,14 @@ func main() {
 	router.Static("/static", "static")
 
 	router.GET("/", func(c *gin.Context) {
+		c.HTML(http.StatusOK, "index.tmpl.html", nil)
+	})
+	
+  router.GET("/ag", func(c *gin.Context) {
+		c.HTML(http.StatusOK, "ruka-ag.index.tmpl.html", nil)
+	})
+  
+  router.GET("/about", func(c *gin.Context) {
 		c.HTML(http.StatusOK, "index.tmpl.html", nil)
 	})
 
