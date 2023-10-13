@@ -25,15 +25,15 @@ func main() {
 		c.HTML(http.StatusOK, "ruka.index.tmpl.html", nil)
 	})
   
-  router.GET("/charm", func(c *gin.Context) {
-		c.HTML(http.StatusOK, "charm.index.tmpl.html", nil)
+    router.GET("/talisman", func(c *gin.Context) {
+		c.HTML(http.StatusOK, "talisman.index.tmpl.html", nil)
 	})
 	
-  router.GET("/silver", func(c *gin.Context) {
+    router.GET("/silver", func(c *gin.Context) {
 		c.HTML(http.StatusOK, "silver.index.tmpl.html", nil)
 	})
   
-  router.GET("/about", func(c *gin.Context) {
+    router.GET("/about", func(c *gin.Context) {
 		c.HTML(http.StatusOK, "ruka.index.tmpl.html", nil)
 	})
 
