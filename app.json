@@ -1,5 +1,5 @@
 {
-  "name": "rex-lang.org",
+  "name": "rexlang.org",
   "description": "",
   "keywords": [
     "getting-started",
@@ -7,6 +7,6 @@
     "sample",
     "example"
   ],
-  "website": "http://www.rex-lang.org",
-  "repository": "http://github.com/rex-lang/rex-lang.org"
+  "website": "http://www.rexlang.org",
+  "repository": "http://github.com/rexlang/rexlang.org"
 }

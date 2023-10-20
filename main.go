@@ -25,8 +25,8 @@ func main() {
 		c.HTML(http.StatusOK, "rex.index.tmpl.html", nil)
 	})
   
-    router.GET("/talisman", func(c *gin.Context) {
-		c.HTML(http.StatusOK, "talisman.index.tmpl.html", nil)
+    router.GET("/ruka", func(c *gin.Context) {
+		c.HTML(http.StatusOK, "ruka.index.tmpl.html", nil)
 	})
 	
     router.GET("/silver", func(c *gin.Context) {
