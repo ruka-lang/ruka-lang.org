@@ -1,4 +1,4 @@
-module github.com/ruka-lang/ruka-lang.org
+module github.com/rex-lang/rex-lang.org
 
 // +heroku goVersion go1.20
 go 1.21
