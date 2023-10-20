@@ -1,1 +1,1 @@
-web: ruka-lang.org
+web: rex-lang.org
