@@ -1,1 +1,1 @@
-web: rex-lang.org
+web: rexlang.org
