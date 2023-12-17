@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/a48cc0df-a6ca-4ae0-b24a-02e6b02ea45f/Rexlang%2001%20Artboard%201.ico?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20231217%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20231217T033752Z&X-Amz-Expires=86400&X-Amz-Signature=4448f6ecf7346eb944eddbbfd883efd637d354255134baa2af7ddf91c278dd88&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Rexlang%2001%20Artboard%201.ico%22&response-content-type=image%2Fvnd.microsoft.icon&x-id=GetObject
