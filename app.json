@@ -1,5 +1,5 @@
 {
-  "name": "rexlang.org",
+  "name": "iodine-lang.org",
   "description": "",
   "keywords": [
     "getting-started",
@@ -7,6 +7,6 @@
     "sample",
     "example"
   ],
-  "website": "http://www.rexlang.org",
-  "repository": "http://github.com/rexlang/rexlang.org"
+  "website": "http://www.iodine-lang.org",
+  "repository": "http://github.com/iodine-lang/iodine-lang.org"
 }

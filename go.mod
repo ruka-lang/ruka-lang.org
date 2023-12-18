@@ -1,4 +1,4 @@
-module github.com/rexlang/rexlang.org
+module github.com/iodine-lang/iodine-lang.org
 
 // +heroku goVersion go1.20
 go 1.21
