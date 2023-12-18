@@ -1,1 +1,1 @@
-web: iodine-lang.org
+web: rexlang.org
