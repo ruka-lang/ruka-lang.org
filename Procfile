@@ -1,1 +1,1 @@
-web: rexlang.org
+web: cosmic-lang.org

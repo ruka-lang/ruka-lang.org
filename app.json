@@ -1,5 +1,5 @@
 {
-  "name": "rexlang.org",
+  "name": "cosmic-lang.org",
   "description": "",
   "keywords": [
     "getting-started",
@@ -7,6 +7,6 @@
     "sample",
     "example"
   ],
-  "website": "http://www.rexlang.org",
-  "repository": "http://github.com/rexlang/rexlang.org"
+  "website": "http://www.cosmic-lang.org",
+  "repository": "http://github.com/cosmic-lang/cosmic-lang.org"
 }
