@@ -1,1 +1,1 @@
-web: cosmic-lang.org
+web: conjure-lang.org

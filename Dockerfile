@@ -18,4 +18,4 @@ ENV HOME /app
 WORKDIR /app
 RUN useradd -m heroku
 USER heroku
-CMD /app/bin/cosmic-lang.org
+CMD /app/bin/conjure-lang.org
