@@ -1,5 +1,5 @@
 {
-  "name": "conjure-lang.org",
+  "name": "ghous-lang.org",
   "description": "",
   "keywords": [
     "getting-started",
@@ -7,6 +7,6 @@
     "sample",
     "example"
   ],
-  "website": "http://www.conjure-lang.org",
-  "repository": "http://github.com/conjure-lang/conjure-lang.org"
+  "website": "http://www.ghous-lang.org",
+  "repository": "http://github.com/ghous-lang/ghous-lang.org"
 }

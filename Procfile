@@ -1,1 +1,1 @@
-web: conjure-lang.org
+web: ghous-lang.org

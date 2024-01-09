@@ -1,3 +1,4 @@
 Main       = #a0323f
 Alternate  = #a0452e
-Background = #f9f5e8
+Alternate2 = #f58b1f
+Background = #fff9f4

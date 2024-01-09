@@ -1,4 +1,4 @@
-module github.com/conjure-lang/conjure-lang.org
+module github.com/ghous-lang/ghous-lang.org
 
 // +heroku goVersion go1.20
 go 1.21
