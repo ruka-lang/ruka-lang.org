@@ -1,5 +1,5 @@
 {
-  "name": "ghous-lang.org",
+  "name": "ghoose-lang.org",
   "description": "",
   "keywords": [
     "getting-started",
@@ -7,6 +7,6 @@
     "sample",
     "example"
   ],
-  "website": "http://www.ghous-lang.org",
-  "repository": "http://github.com/ghous-lang/ghous-lang.org"
+  "website": "http://www.ghoose-lang.org",
+  "repository": "http://github.com/ghoose-lang/ghoose-lang.org"
 }

@@ -1,1 +1,1 @@
-web: ghous-lang.org
+web: ghoose-lang.org
