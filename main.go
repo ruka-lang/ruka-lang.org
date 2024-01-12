@@ -34,7 +34,7 @@ func main() {
 	})
   
     router.GET("/about", func(c *gin.Context) {
-		c.HTML(http.StatusOK, "ghoose.index.tmpl.html", nil)
+		c.HTML(http.StatusOK, "about.index.tmpl.html", nil)
 	})
 
 	router.Run(":" + port)
