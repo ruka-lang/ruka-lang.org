@@ -1,4 +1,4 @@
-module github.com/ghoose-lang/ghoose-lang.org
+module github.com/amulet-lang/amulet-lang.org
 
 // +heroku goVersion go1.20
 go 1.21

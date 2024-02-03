@@ -1,1 +1,1 @@
-web: ghoose-lang.org
+web: amulet-lang.org

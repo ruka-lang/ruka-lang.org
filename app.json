@@ -1,5 +1,5 @@
 {
-  "name": "ghoose-lang.org",
+  "name": "amulet-lang.org",
   "description": "",
   "keywords": [
     "getting-started",
@@ -7,6 +7,6 @@
     "sample",
     "example"
   ],
-  "website": "http://www.ghoose-lang.org",
-  "repository": "http://github.com/ghoose-lang/ghoose-lang.org"
+  "website": "http://www.amulet-lang.org",
+  "repository": "http://github.com/amulet-lang/amulet-lang.org"
 }
