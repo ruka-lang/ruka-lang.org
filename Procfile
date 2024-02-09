@@ -1,1 +1,1 @@
-web: amulet-lang.org
+web: warp-lang.org

@@ -1,4 +1,4 @@
-module github.com/amulet-lang/amulet-lang.org
+module github.com/warp-lang/warp-lang.org
 
 // +heroku goVersion go1.20
 go 1.21
