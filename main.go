@@ -25,8 +25,8 @@ func main() {
 		c.HTML(http.StatusOK, "warp.index.tmpl.html", nil)
 	})
   
-    router.GET("/pm", func(c *gin.Context) {
-		c.HTML(http.StatusOK, "pm.index.tmpl.html", nil)
+    router.GET("/drive", func(c *gin.Context) {
+		c.HTML(http.StatusOK, "drive.index.tmpl.html", nil)
 	})
 	
     router.GET("/whdl", func(c *gin.Context) {
