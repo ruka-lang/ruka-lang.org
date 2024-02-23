@@ -18,4 +18,4 @@ ENV HOME /app
 WORKDIR /app
 RUN useradd -m heroku
 USER heroku
-CMD /app/bin/warp-lang.org
+CMD /app/bin/ruka-lang.org

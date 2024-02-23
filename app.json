@@ -1,5 +1,5 @@
 {
-  "name": "warp-lang.org",
+  "name": "ruka-lang.org",
   "description": "",
   "keywords": [
     "getting-started",
@@ -7,6 +7,6 @@
     "sample",
     "example"
   ],
-  "website": "http://www.warp-lang.org",
-  "repository": "http://github.com/warp-lang/warp-lang.org"
+  "website": "http://www.ruka-lang.org",
+  "repository": "http://github.com/ruka-lang/ruka-lang.org"
 }

@@ -22,15 +22,15 @@ func main() {
 	router.Static("/static", "static")
 
 	router.GET("/", func(c *gin.Context) {
-		c.HTML(http.StatusOK, "warp.index.tmpl.html", nil)
+		c.HTML(http.StatusOK, "ruka.index.tmpl.html", nil)
 	})
   
-    router.GET("/drive", func(c *gin.Context) {
-		c.HTML(http.StatusOK, "drive.index.tmpl.html", nil)
+    router.GET("/rukapm", func(c *gin.Context) {
+		c.HTML(http.StatusOK, "rukapm.index.tmpl.html", nil)
 	})
 	
-    router.GET("/whdl", func(c *gin.Context) {
-		c.HTML(http.StatusOK, "whdl.index.tmpl.html", nil)
+    router.GET("/rhdl", func(c *gin.Context) {
+		c.HTML(http.StatusOK, "rhdl.index.tmpl.html", nil)
 	})
   
     router.GET("/about", func(c *gin.Context) {
