@@ -25,10 +25,6 @@ func main() {
 		c.HTML(http.StatusOK, "ruka.index.tmpl.html", nil)
 	})
   
-    router.GET("/rukapm", func(c *gin.Context) {
-		c.HTML(http.StatusOK, "rukapm.index.tmpl.html", nil)
-	})
-	
     router.GET("/rhdl", func(c *gin.Context) {
 		c.HTML(http.StatusOK, "rhdl.index.tmpl.html", nil)
 	})
